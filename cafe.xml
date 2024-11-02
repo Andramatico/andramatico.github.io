@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cafe SYSTEM "cafe.dtd">
+<cafe>
+    <name>Brrian's Cafe</name>
+    <location>
+        <address>123 Main Street</address>
+        <city>Exampletown</city>
+        <state>EX</state>
+        <zipcode>12345</zipcode>
+    </location>
+    <menu>
+        <item>
+            <name>Classic Breakfast</name>
+            <price>12.99</price>
+            <description>A hearty breakfast with eggs, toast, and bacon.</description>
+        </item>
+        <item>
+            <name>Grilled Sandwich</name>
+            <price>8.50</price>
+            <description>Freshly made sandwich with cheese and vegetables.</description>
+        </item>
+        <item>
+            <name>House Special Pasta</name>
+            <price>15.75</price>
+            <description>Our signature pasta with a special sauce blend.</description>
+        </item>
+    </menu>
+</cafe>
